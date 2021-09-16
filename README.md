@@ -1,2 +1,2 @@
 # Projetos-PowerBI
-Projetos desenvolvidos durantes os estudos sobre Power BI
+Projetos desenvolvidos durante os estudos sobre Power BI
